@@ -7,7 +7,7 @@
 ### Exercício 1: (H3)
 
 - Lista de comandos:
-  - # Título Grande (H1)
+  - Para clonar um repositório, use o comando `git clone`.
   - ~~texto riscado~~
   - #### Subseção (H4)
 
