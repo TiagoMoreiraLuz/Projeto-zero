@@ -21,6 +21,5 @@
 
 
 ### Exercício 3:
-md
-CopiarEditar
-![Logo do GitHub]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://stock.adobe.com/br/search?k=%22simbolo+positivo%22&asset_id=28837274))
+
+![Positivo]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://stock.adobe.com/br/search?k=%22simbolo+positivo%22&asset_id=28837274))
