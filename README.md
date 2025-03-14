@@ -22,4 +22,4 @@
 
 ### Exercício 3:
 
-![Positivo](https://stock.adobe.com/br/search?k=%22simbolo+positivo%22&asset_id=28837274)
+![Positivo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsNR0CLOePegqW-1mFOLNdCAX3p-nnDHgHA&s)
