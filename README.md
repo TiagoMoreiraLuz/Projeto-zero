@@ -14,7 +14,7 @@
 
 ### Exercício 2:
 | Nome      | Idade | Profissão      |
-|-----------|------|------------|
+|-----------|------|-------------|
 | Rossi      | 19   | Programador   |
 | Aparecido     | 59   | médico |
 | José      | 40   | Padeiro|
