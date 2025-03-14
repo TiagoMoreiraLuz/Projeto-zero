@@ -5,9 +5,9 @@
 # 🛠 Exercícios Práticos(H1)
 
 ### Exercício 1: (H3)
-md
-CopiarEditar
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+
+- Lista de comandos:
+  - # Título Grande (H1)
+  - ~~texto riscado~~
+  - #### Subseção (H4)
+
