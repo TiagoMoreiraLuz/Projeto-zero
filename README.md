@@ -13,11 +13,11 @@
 
 
 ### Exercício 2:
-| Nome      | Idade | Cidade      |
+| Nome      | Idade | Profissão      |
 |-----------|------|-------------|
-| Rossi      | 19   | São Paulo   |
-| Aparecido     | 59   | Rio de Janeiro |
-| José      | 40   | Amazonas|
+| Rossi      | 19   | Programador   |
+| Aparecido     | 59   | médico |
+| José      | 40   | Padeiro|
 
 
 ### Exercício 3:
