@@ -24,10 +24,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 1. PowerBI
+ 2. Github
+ 3. Linguagem Python
+ 4. Collab
+ 5. Git
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+1. 
 
 # Backlog do produto
 
