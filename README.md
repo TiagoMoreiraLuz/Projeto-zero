@@ -5,9 +5,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 # Índice
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
 # Equipe
