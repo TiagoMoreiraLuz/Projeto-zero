@@ -6,7 +6,6 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Tecnologias utilizadas](#Tecnologias-Utilizadas)
-* [Backlog do produto](#Backlog-do-produto)
 * [Backlog](#Backlog-do-produto)
 * [Sprints](#Registro-das-sprints)
 
