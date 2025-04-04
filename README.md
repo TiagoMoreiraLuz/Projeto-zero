@@ -17,13 +17,18 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
  ### Tecnologias Específicas/Apoio
  1. PowerBI
- 2. Github
  3. Linguagem Python
  4. Collab
- 5. Git
+ 5. Linguagem M (M query)
+ 6. Linguagem DAX (Data Analysis Expressions)
   
  ### Tecnologias da Informação
-1. 
+1. Computadores
+2. Whatsapp
+3. Discord
+4. Linkedin
+5. Github
+6. Collab
 
 # Backlog do produto
 
