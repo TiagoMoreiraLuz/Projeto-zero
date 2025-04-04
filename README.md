@@ -79,8 +79,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
+|01 | 09/04/2025 | a fazer| [MVP](https://) | 
+|02|  20/04/2025| a fazer|[MVP](https://) | 
+|03| 12/05/2025 | a fazer|[MVP](https://) | 
+|04| 24/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
