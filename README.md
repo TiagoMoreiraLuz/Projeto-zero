@@ -72,7 +72,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 09/04/2025 | a fazer| [MVP](https://) | 
-|02|  20/04/2025| a fazer|[MVP](https://) | 
-|03| 12/05/2025 | a fazer|[MVP](https://) | 
-|04| 24/05/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|02|  23/04/2025| a fazer|[MVP](https://) | 
+|03| 14/05/2025 | a fazer|[MVP](https://) | 
+|04| 25/06/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções|29/05/2025 |a fazer |[MVP](https://) | 
