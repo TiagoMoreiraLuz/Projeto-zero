@@ -7,7 +7,8 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 * [Equipe](#equipe)
 * [Tecnologias utilizadas](#Tecnologias-Utilizadas)
 * [Backlog do produto](#Backlog-do-produto)
-* [Sprints](#Sprints)
+* [Backlog](#Backlog-do-produto)
+* [Sprints](#Registro-das-sprints)
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
